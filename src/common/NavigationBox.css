@@ -1,6 +1,6 @@
 .nav-box {
   width: 50vw;
-  height: 85%;
+  height: calc(30px + 2.5vh);
 
   background-color: red;
 }
